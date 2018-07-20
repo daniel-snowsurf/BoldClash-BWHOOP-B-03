@@ -100,9 +100,9 @@
 // CHAN_5 - CHAN_10 - auto based on tx selection
 
 // rates / expert mode
-#define RATES CH_EXPERT
+#define RATES CH_ON
 
-#define LEVELMODE CH_AUX1
+#define LEVELMODE DEVO_CHAN_5
 
 #define STARTFLIP CH_OFF
 
